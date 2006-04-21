@@ -10,7 +10,7 @@ WriteMakefile(
   Test::More => 0.44,
   Math::SymbolicX::ParserExtensionFactory => 0.01,
   Math::Symbolic => 0.129,
-  Number::WithError => 0.04,
+  Number::WithError => 0.03,
   Parse::RecDescent => 0,
     },    # e.g., Module::Name => 1.1
     (

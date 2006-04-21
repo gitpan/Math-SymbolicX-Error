@@ -1,4 +1,4 @@
-Math::SymbolicX::Error version 0.01
+Math::SymbolicX::Error version 0.02
 ===================================
 
 Adds support for numbers with errors to the Math::Symbolic parser
